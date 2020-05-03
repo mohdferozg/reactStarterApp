@@ -1,0 +1,21 @@
+.toggleBtnCls{
+    text-align: center;
+    display: flex;
+    top: 6%;
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+    font-size: 1.1em;
+}
+.emptyCls{
+    width:30%;
+    float:left;
+}
+.buttonsCls{
+    -ms-flex: 1;  /* IE 10 */  
+  flex: 1;
+    border: 1px solid #3c1d5c;
+    border-left: none;
+    padding: 10px;
+    background: #dcf0f1;
+}

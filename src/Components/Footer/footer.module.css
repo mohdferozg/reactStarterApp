@@ -1,0 +1,10 @@
+.footerCls{
+    background-color: #3c4f5c;
+    color: #0fd4ff;
+    text-align: center;
+    padding: 10px;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    font-size: 1.2em;
+}
